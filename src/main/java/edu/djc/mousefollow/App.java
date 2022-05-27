@@ -14,6 +14,8 @@ public class App extends Application {
 
     @Override
     public void start(Stage stage) {
+    	// TODO create canvas and onMouseMove event
+    	
         var javaVersion = SystemInfo.javaVersion();
         var javafxVersion = SystemInfo.javafxVersion();
 
